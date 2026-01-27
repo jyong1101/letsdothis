@@ -7,4 +7,4 @@ https://github.com/fcsiba/xv6-labs-2025
 
 JY friend github
 
-https://github.com/jyong1101/letsdothis/tree/main/quiz
+https://github.com/UsernameWasNotAvailable/xv6-sheet/tree/main?tab=readme-ov-file
