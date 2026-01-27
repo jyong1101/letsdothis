@@ -1,0 +1,14 @@
+*** Now run 'gdb' in another window.
+
+xv6 kernel is booting
+
+init: starting sh
+$ echo abcdefgh12345678 | memdump ii
+1684234849
+1751606885
+$ echo abcdefgh12345678 | memdump S
+abcdefgh12345678
+
+$ echo abcdefgh12345678 | memdump p
+0x6867666564636261
+$ 
